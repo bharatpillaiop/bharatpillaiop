@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bharatpillaiop
+- 👋 Hi, I’m Bharat Pillai
 - 👀 I’m interested in andriod/ios app development,web development,ethical hacking and cyber security etc
 - 🌱 I’m currently learning Bsc IT 
 - 💞️ I’m looking to collaborate on ...
